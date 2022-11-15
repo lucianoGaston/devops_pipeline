@@ -1,1 +1,1 @@
-"zona build"  
+echo "zona build"  
