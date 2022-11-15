@@ -1,1 +1,1 @@
-"zona testing.. "  
+echo "zona testing.. "  
