@@ -1,1 +1,1 @@
-"zona deploy.. "  
+echo "zona deploy.. "  
